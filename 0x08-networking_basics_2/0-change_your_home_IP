@@ -1,6 +1,6 @@
-#!usr/bin/env bash
+#!/usr/bin/env bash
 # configures an ubuntu server with the below requirements.
-# loc	l host resolves to 127.0.0.2
+# local host resolves to 127.0.0.2
 # facebook resolves to 8.8.8.8.
 # The checker is running on Docker
 
